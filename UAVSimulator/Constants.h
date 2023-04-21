@@ -1,0 +1,8 @@
+#pragma once
+
+#define MAX_UAV_DEPTH 50.0f
+#define MAX_DIGITAL_DEPTH 600.0f
+#define MAX_DIGITAL_VALUE 0xFFFF
+#define MAX_ANALOG_DEPTH 650.0f
+#define MAX_ANALOG_VALUE 120
+#define STEP_CHANGE 0.1f
